@@ -1,3 +1,0 @@
-# demo postman
-
-Hello Postman
